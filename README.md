@@ -51,13 +51,10 @@ To play the game, follow these steps:
     5. To start a new game, click on the Restart button
 
 ## Compromises
-In the interest of time, some features were not implemented in this version of the game and this was written in JavaScript instead of TypeScript. Others are:
-
-    - No multiplayer option - this version of the game only allows for one player to play against the computer.
-    - No AI - the computer player will make random moves instead of using any strategy.
+In the interest of time, some features were not implemented in this version of the game and this was written in JavaScript instead of TypeScript. 
 
 ## Future Improvements
 In future iterations of the game, the following improvements could be made:
 
-    > Add multiplayer option - allow for two players to play against each other.
-    > Improve AI - implement an AI algorithm that uses strategy to make moves.
+    > Add AI - implement an AI algorithm that uses strategy to make moves.
+    > VS AI - for the user to compete with an AI algorithm.
