@@ -1,12 +1,10 @@
 
 # Tic-Tac-Toe Game
 
-A brief description of what this project does and who it's for
-
 This project is a simple implementation of the Tic-Tac-Toe game using JavaScript, Node.js for the backend, and React.js for the UI.
 
 ## My Output
-![tictactoe-implemented](https://user-images.githubusercontent.com/91439231/219866817-59ec58da-a54d-48ee-80bf-6f957344fe8c.PNG)
+![tictactoe-implemented](https://user-images.githubusercontent.com/91439231/219866937-6f6245cd-023f-4e6a-9612-d123aa7fbd26.PNG)
 
 ### Game Rules
 Tic-Tac-Toe is a two-player game, played on a 3x3 grid. The first player to get three marks in a row (horizontally, vertically, or diagonally) wins the game. If neither player is able to achieve this, the game ends in a draw.
